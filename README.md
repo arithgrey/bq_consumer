@@ -121,7 +121,7 @@ if __name__ == "__main__":
 ```
 
 
-#### Completo en Google Colab (Pandas)
+#### Completo en Google Colab (Pandas + numpy)
 ```bash
 !git clone https://github.com/arithgrey/bq_consumer.git
 !pip install ./bq_consumer
