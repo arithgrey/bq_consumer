@@ -2,7 +2,7 @@ import os
 import importlib.util
 
 class ConfigLoader:
-    def __init__(self, config_file: str = "config.py"):
+    def __init__(self, config_file: str = "bq_consumer/config.py"):
         self.config_file = config_file
         self.config = self._load_config()
 
