@@ -43,7 +43,7 @@ python example.py
 
 
 
-#### Completo en colap
+#### Completo en Google Colab
 
 ```bash
 !git clone https://github.com/arithgrey/bq_consumer.git
