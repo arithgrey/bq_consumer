@@ -1,5 +1,5 @@
-from bigquery_connector import BigQueryConnector
-from config_loader import ConfigLoader
+from bq_consumer.bigquery_connector import BigQueryConnector
+from bq_consumer.config_loader import ConfigLoader
 import pandas as pd
 
 class QueryExecutor:
